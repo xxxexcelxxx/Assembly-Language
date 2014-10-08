@@ -5,7 +5,7 @@
 '  11/18/2013
 '  Copy 2013 by Rafael Oquendo
 '-------------------------------------------------------------------------------
-'Sophia Program Altered By Rafael Oquendo
+'By Rafael Oquendo
 $regfile = "m16def.dat"                                     ' specify the used micro
 $crystal = 8000000                                          ' used crystal frequency
 $baud = 19200                                               ' use baud rate
